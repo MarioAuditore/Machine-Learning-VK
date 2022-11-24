@@ -1,2 +1,2 @@
 # Machine-Learning-VK
-Repo with tasks from ML course by VK
+Repo with tasks' solutions for ML course by VK
