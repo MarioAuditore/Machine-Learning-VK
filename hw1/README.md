@@ -1,2 +1,2 @@
-#Home Task 1
+# Home Task 1
 K-NN, linreg and logreg
